@@ -1,16 +1,6 @@
 # awesome_notificatio_demo
 
-A new Flutter project.
+Snapshots:
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![and](https://github.com/rohan0110/MAD_Lab_Assignment1/assets/110125066/9d5ec0a4-5cac-4355-b8a3-b25b145ff973)
+![and1](https://github.com/rohan0110/MAD_Lab_Assignment1/assets/110125066/69f527c0-b61c-4471-8272-8e07abfe76a8)
